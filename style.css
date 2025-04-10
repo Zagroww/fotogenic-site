@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+#video { border: 2px solid #ddd; margin-bottom: 20px; }
+#startButton { padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer; }
+#message { font-size: 18px; color: #333; }
